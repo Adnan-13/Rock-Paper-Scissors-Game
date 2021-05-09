@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RockPaperScissors">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RockPaperScissors.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
